@@ -1,6 +1,6 @@
 {
   "name": "hyperterm-danish-keyboard",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Danish keyboard shortcuts for HyperTerm",
   "main": "index.js",
   "scripts": {
