@@ -15,5 +15,13 @@
     "workaround"
   ],
   "author": "Claus Witt",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clauswitt/hyperterm-danish-keyboard.git"
+  },
+  "bugs": {
+    "url": "https://github.com/clauswitt/hyperterm-danish-keyboard/issues"
+  },
+  "homepage": "https://github.com/clauswitt/hyperterm-danish-keyboard#readme"
 }
